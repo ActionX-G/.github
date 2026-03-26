@@ -1,6 +1,7 @@
-# [ActionX](https://www.actionx.top/)
+# [ActionX](https://web.actionx.top/)
 
-Official Website: [www.actionx.top](https://www.actionx.top/)
+Official Website: [web.actionx.top](https://web.actionx.top/)
+Contact: [support@actionx.top](mailto:support@actionx.top)
 
 **Monetize AI traffic from day one.**  
 ActionX is the commerce infrastructure for AI products.  
@@ -65,5 +66,6 @@ User conversation
 
 ## 🔗 Links
 
+- Website: [www.actionx.top](https://www.actionx.top/)
 - Platform: [web.actionx.top](https://web.actionx.top/)
 - Docs: [docs.actionx.top](https://docs.actionx.top/)
