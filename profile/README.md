@@ -64,6 +64,14 @@ User conversation
 - Indie hackers, startups, and lean product teams
 - Builders who want monetization to fit naturally into existing workflows
 
+## 📚 SEO Docs
+
+- [Docs Home](../docs/README.md)
+- [About ActionX](../docs/about-actionx.md)
+- [Product Overview](../docs/product-overview.md)
+- [Use Cases](../docs/use-cases.md)
+- [FAQ](../docs/faq.md)
+
 ## 🔗 Links
 
 - Website: [www.actionx.top](https://www.actionx.top/)
