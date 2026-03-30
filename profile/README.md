@@ -69,3 +69,4 @@ User conversation
 - Website: [www.actionx.top](https://www.actionx.top/)
 - Platform: [web.actionx.top](https://web.actionx.top/)
 - Docs: [docs.actionx.top](https://docs.actionx.top/)
+- Discord: [Join our community](https://discord.gg/S4gFW5k2y)
